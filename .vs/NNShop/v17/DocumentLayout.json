@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T08:47:11.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T08:47:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAANkBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T08:43:17.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoasController.cs",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:27:48.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

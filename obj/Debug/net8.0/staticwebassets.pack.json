@@ -1,0 +1,1057 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NNShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NNShop.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\7up.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\7up.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\bia_ruby.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\bia_ruby.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\bia_tiger_330ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\bia_tiger_330ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\ca_moi_3_co_155g.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\ca_moi_3_co_155g.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\chocopie.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\chocopie.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\chuppachup.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\chuppachup.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\coca.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\coca.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\cocazero.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cocazero.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\cosy_408g.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cosy_408g.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\cuahangtienloi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cuahangtienloi.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\cuahangtienloi1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cuahangtienloi1.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\cuahangtienloi2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\cuahangtienloi2.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\danisa_454g.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\danisa_454g.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\dau_simily_1_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\dau_simily_1_lit.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\dau_simily_2_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\dau_simily_2_lit.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\dau_simily_5_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\dau_simily_5_lit.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\gao_lut_tim_1kg.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\gao_lut_tim_1kg.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\gao_st24_2kg.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\gao_st24_2kg.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\gao_st24_5kg.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\gao_st24_5kg.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\hu_tiu_cungdinh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\hu_tiu_cungdinh.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\kun_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\kun_180ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\kun_48h_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\kun_48h_180ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\m&m.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\m&m.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mam_chin_su_500ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mam_chin_su_500ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mam_chin_su_720ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mam_chin_su_720ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mam_nam_ngu_650ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mam_nam_ngu_650ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mi-gau-do.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi-gau-do.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mi-hao-hao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi-hao-hao.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mi-omachi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi-omachi.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mi_3mien.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_3mien.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mi_cungdinh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_cungdinh.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mi_hanquoc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_hanquoc.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mi_haohao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mi_haohao.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\mien_phu_huong.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\mien_phu_huong.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\oreo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\oreo.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\pate_gan.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\pate_gan.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\pepsi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\pepsi.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\pho_de_nhat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\pho_de_nhat.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\sua.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sua.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\sua_grow_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sua_grow_180ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\sua_vinamilk_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sua_vinamilk_180ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\sua_vinamilk_220ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\sua_vinamilk_220ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\suoi_lavie_500ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\suoi_lavie_500ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\th_true_milk_180ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\th_true_milk_180ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\th_true_milk_hop_1_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\th_true_milk_hop_1_lit.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\thit_ap_chao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\thit_ap_chao.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\tuong_chin_su.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\tuong_chin_su.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\tuong_maggi_700ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\tuong_maggi_700ml.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\Hinh\\vinamilk_1_lit.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\vinamilk_1_lit.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\chackout.html",
+      "PackagePath": "staticwebassets\\chackout.html"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\contact.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\contact.html.__projection.g.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\contact.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\contact.html.__projection.g.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\img\\baner-1.png"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\img\\single-item.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\index.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\index.html.__projection.g.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\index.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\index.html.__projection.g.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\shop-detail.html",
+      "PackagePath": "staticwebassets\\shop-detail.html"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "E:\\tài liệu\\ĐỒ ÁN 1\\NNShop\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NNShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NNShop.props",
+      "PackagePath": "build\\NNShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NNShop.props",
+      "PackagePath": "buildMultiTargeting\\NNShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NNShop.props",
+      "PackagePath": "buildTransitive\\NNShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
