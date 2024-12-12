@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NNShop.Data;
 using NNShop.ViewComponents;
 using NNShop.ViewModels;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 
 namespace NNShop.Controllers
 {
@@ -14,26 +17,49 @@ namespace NNShop.Controllers
         {
             db = context;
         }
-        public IActionResult Index(int? loai)
+
+       
+        public IActionResult Index(int? loai, int page = 1)
         {
+            int pageSize = 9; // Number of items per page
             var hangHoas = db.HangHoas.AsQueryable();
+
+            // Filter by category if provided
             if (loai.HasValue)
             {
                 hangHoas = hangHoas.Where(p => p.MaLoaiHh == loai.Value);
             }
-            var result = hangHoas.Select(p => new HangHoaVM
+
+            // Get total number of products
+            int totalItems = hangHoas.Count();
+
+            // Apply pagination logic
+            var paginatedHangHoas = hangHoas
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .Select(p => new HangHoaVM
+                {
+                    MaHh = p.MaHh,
+                    TenHH = p.TenHh,
+                    DonGia = p.DonGia ?? 0,
+                    Hinh = p.Hinh ?? "",
+                    MoTa = p.MoTa ?? "",
+                    TenLoai = p.MaLoaiHhNavigation.TenLoaiHh
+                })
+                .ToList();
+
+            ViewBag.TotalProducts = hangHoas.Count();
+            // Pass pagination details to the view
+            var model = new PaginatedHangHoaVM
             {
-                MaHh = p.MaHh,
-                TenHH = p.TenHh,
-                DonGia = p.DonGia ?? 0,
-                Hinh = p.Hinh ?? "",
-                MoTa = p.MoTa ?? "",
-                TenLoai = p.MaLoaiHhNavigation.TenLoaiHh
+                HangHoas = paginatedHangHoas,
+                CurrentPage = page,
+                TotalPages = (int)Math.Ceiling(totalItems / (double)pageSize)
+            };
 
-
-            });
-            return View(result);
+            return View(model);
         }
+
 
         public IActionResult Search(string query)
         {
@@ -55,6 +81,8 @@ namespace NNShop.Controllers
             });
             return View(result);
         }
+
+
         public IActionResult Detail(string id)
         {
             var data = db.HangHoas
@@ -79,7 +107,6 @@ namespace NNShop.Controllers
 
             };
             return View(result);
-
         }
     }
 }

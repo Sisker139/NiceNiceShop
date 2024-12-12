@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NNShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3108f35878b3cceb63f0d29db7ed3df4cfcd2feb")]
 [assembly: System.Reflection.AssemblyProductAttribute("NNShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NNShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

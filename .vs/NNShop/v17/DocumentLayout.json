@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\views\\donhang\\thongkeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:views\\donhang\\thongkeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\viewmodels\\thongkeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:viewmodels\\thongkeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\nnshop\\data\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6769A4-346A-4287-A488-E921C73B487F}|NNShop.csproj|solutionrelative:data\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\HangHoa\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
-              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\HangHoa\\Index.cshtml",
-              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T08:47:11.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_LayoutCustomer.cshtml",
               "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
               "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T08:47:03.012Z",
+              "WhenOpened": "2024-12-12T17:02:42.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\HangHoa\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\HangHoa\\Detail.cshtml",
-              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\HangHoa\\Detail.cshtml",
-              "RelativeToolTip": "Views\\HangHoa\\Detail.cshtml",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAANkBAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T08:43:17.256Z",
+              "Title": "ThongKeViewModel.cs",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\ViewModels\\ThongKeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ThongKeViewModel.cs",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\ViewModels\\ThongKeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ThongKeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:52:21.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HangHoasController.cs",
-              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Controllers\\HangHoasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HangHoasController.cs",
-              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Controllers\\HangHoasController.cs",
-              "RelativeToolTip": "Controllers\\HangHoasController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ThongKeIndex.cshtml",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\DonHang\\ThongKeIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\DonHang\\ThongKeIndex.cshtml",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Views\\DonHang\\ThongKeIndex.cshtml",
+              "RelativeToolTip": "Views\\DonHang\\ThongKeIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T16:32:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonHangController.cs",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "Controllers\\DonHangController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAqwKQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T08:27:48.323Z",
+              "WhenOpened": "2024-12-12T15:41:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Data\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "Data\\ChiTietDonHang.cs",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Data\\ChiTietDonHang.cs",
+              "RelativeToolTip": "Data\\ChiTietDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:39:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Data\\DonHang.cs",
+              "RelativeDocumentMoniker": "Data\\DonHang.cs",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NNShop\\Data\\DonHang.cs",
+              "RelativeToolTip": "Data\\DonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:39:46.755Z",
               "EditorCaption": ""
             }
           ]

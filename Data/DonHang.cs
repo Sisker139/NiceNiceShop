@@ -7,10 +7,6 @@ public partial class DonHang
 {
     public int MaDh { get; set; }
 
-    public string MaHh { get; set; } = null!;
-
-    public string TenHh { get; set; } = null!;
-
     public string? MaKh { get; set; }
 
     public DateOnly? NgayDat { get; set; }
@@ -23,8 +19,6 @@ public partial class DonHang
 
     public int MaNv { get; set; }
 
-    public double DonGia { get; set; }
-
     public string? GhiChu { get; set; }
 
     public string? VanChuyen { get; set; }
@@ -34,8 +28,6 @@ public partial class DonHang
     public int MaTt { get; set; }
 
     public virtual ICollection<ChiTietDonHang> ChiTietDonHangs { get; set; } = new List<ChiTietDonHang>();
-
-    public virtual HangHoa MaHhNavigation { get; set; } = null!;
 
     public virtual KhachHang? MaKhNavigation { get; set; }
 

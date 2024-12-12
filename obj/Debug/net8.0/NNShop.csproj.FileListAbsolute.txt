@@ -282,3 +282,4 @@ E:\tài liệu\ĐỒ ÁN 1\NNShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Micro
 E:\tài liệu\ĐỒ ÁN 1\NNShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\tài liệu\ĐỒ ÁN 1\NNShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\tài liệu\ĐỒ ÁN 1\NNShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\tài liệu\ĐỒ ÁN 1\NNShop\obj\Debug\net8.0\NNShop.sourcelink.json

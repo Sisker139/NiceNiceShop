@@ -7,7 +7,7 @@ public partial class HangHoa
 {
     public string MaHh { get; set; } = null!;
 
-    public string TenHh { get; set; } = null!;
+    public string? TenHh { get; set; }
 
     public int MaLoaiHh { get; set; }
 
@@ -24,8 +24,6 @@ public partial class HangHoa
     public int SoLuong { get; set; }
 
     public virtual ICollection<ChiTietDonHang> ChiTietDonHangs { get; set; } = new List<ChiTietDonHang>();
-
-    public virtual ICollection<DonHang> DonHangs { get; set; } = new List<DonHang>();
 
     public virtual LoaiHh MaLoaiHhNavigation { get; set; } = null!;
 }

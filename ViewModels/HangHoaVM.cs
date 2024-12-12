@@ -37,4 +37,10 @@
 
 
     }
+    public class PaginatedHangHoaVM
+    {
+        public IEnumerable<HangHoaVM> HangHoas { get; set; }
+        public int CurrentPage { get; set; }
+        public int TotalPages { get; set; }
+    }
 }

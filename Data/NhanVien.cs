@@ -13,5 +13,7 @@ public partial class NhanVien
 
     public DateOnly NgaySinh { get; set; }
 
+    public string? Role { get; set; }
+
     public virtual ICollection<DonHang> DonHangs { get; set; } = new List<DonHang>();
 }
